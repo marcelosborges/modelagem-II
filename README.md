@@ -5,7 +5,7 @@
 
 ### *Projeto - Parte 01*
 
-#### Este Repositório contém:
+### Este Repositório contém:
 #### 1. Código MatLab
 #### 2. Código Python
 #### 3. Código Arduino 
