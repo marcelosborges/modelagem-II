@@ -1,9 +1,9 @@
 ## Modelagem e Controle de Sistamas II
 
-#### **Discentes**: Frederico Barreto, Ian Rezende, Juliana Carla, Marcelo Borges, Tayron Rodrigues e Vítor Yan
-#### **Docente**: Emanuel Benício
+### **Discentes**: Frederico Barreto, Ian Rezende, Juliana Carla, Marcelo Borges, Tayron Rodrigues e Vítor Yan
+### **Docente**: Emanuel Benício
 
-#### *Projeto - Parte 01*
+### *Projeto - Parte 01*
 
 #### Este Repositório contém:
 #### 1. Código MatLab
